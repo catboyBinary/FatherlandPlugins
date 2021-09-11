@@ -1,0 +1,24 @@
+name: GhostPlugin
+main: fatherlandghost.Main
+version: 0.0.1a
+commands:
+  canonlives:
+    usage: /canonlives <player> <value>
+  revive:
+    usage: /revive <player>
+  reviveall:
+    usage: /reviveall
+  cringe:
+    usage: /cringe
+  hug:
+    usage: /hug <player>
+  hugs:
+    usage: /hugs <player>
+  kiss:
+    usage: /kiss <player>
+  sk:
+    usage: no
+  sacrifice:
+    usage: /sacrifice <player>
+  rotatemirror:
+    usage: fuck off
